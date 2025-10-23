@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="35" alt="NestJS"/><br><sub>NestJS</sub></td>
+<td align="center" width="70"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="35" alt="NestJS"/><br><sub>NestJS</sub></td>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35" alt="Jest"/><br><sub>Jest</sub></td>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="35" alt="Cypress"/><br><sub>Cypress</sub></td>
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" alt="GitHub Actions"/><br><sub>GH Actions</sub></td>
