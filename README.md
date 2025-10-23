@@ -59,4 +59,130 @@
 <br><sub>Flutter</sub>
 </td>
 <td align="center" width="70">
-<img src="https://
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" alt="React" />
+<br><sub>React</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" alt="React Native" />
+<br><sub>React Native</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" alt="TypeScript" />
+<br><sub>TypeScript</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
+<br><sub>JavaScript</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="35" alt="Next.js" />
+<br><sub>Next.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="Node.js" />
+<br><sub>Node.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35" alt="Express" />
+<br><sub>Express.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="35" alt="Firebase" />
+<br><sub>Firebase</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35" alt="AWS" />
+<br><sub>AWS</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" alt="PostgreSQL" />
+<br><sub>PostgreSQL</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" alt="MongoDB" />
+<br><sub>MongoDB</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" alt="MySQL" />
+<br><sub>MySQL</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="35" alt="SQLite" />
+<br><sub>SQLite</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="35" alt="Redis" />
+<br><sub>Redis</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="35" alt="GraphQL" />
+<br><sub>GraphQL</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="35" alt="Docker" />
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" alt="Git" />
+<br><sub>Git</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" alt="Figma" />
+<br><sub>Figma</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub-Mark-64px.png" width="35" alt="GitHub" />
+<br><sub>GitHub</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Maps_icon_(2020).svg" width="35" alt="Maps API" />
+<br><sub>Maps API</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/ARCore_Logo.png" width="35" alt="ARCore" />
+<br><sub>ARCore</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/ARKit_Logo.svg" width="35" alt="ARKit" />
+<br><sub>ARKit</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Three.js_Icon.svg" width="35" alt="Three.js" />
+<br><sub>Three.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Phaser_Logo.svg" width="35" alt="Phaser.js" />
+<br><sub>Phaser.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/WebSocket_Logo.svg" width="35" alt="WebSocket" />
+<br><sub>WebSocket</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="35" alt="OpenAI" />
+<br><sub>OpenAI</sub>
+</td>
+<td align="center" width="70">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" alt="Hugging Face" />
+<br><sub>Hugging Face</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="35" alt="Python" />
+<br><sub>Python</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35" alt="PyTorch" />
+<br><sub>PyTorch</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+⭐ **Thanks for visiting!**  
+Let’s build something creative — [raphael-lee.vercel.app](https://raphael-lee.vercel.app/)
