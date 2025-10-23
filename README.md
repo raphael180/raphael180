@@ -21,7 +21,7 @@
 
 🤝 Open to **collaborations in AI-integrated Mobile Systems**  
 📄 [View My Resume](https://raphael-lee.vercel.app/)  
-🤝 [Schedule Meeting with Raphael](https://calendly.com/raphaeljeonghuanlee45/30min")
+🤝 [Schedule Meeting with Me](https://calendly.com/raphaeljeonghuanlee45/30min)
 ⚡ Fun fact: **I love mixing AI, AR/VR, and real-time data to build interactive experiences**
 
 </td>
