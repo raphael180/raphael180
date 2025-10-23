@@ -22,7 +22,7 @@
 🤝 Open to **collaborations in AI-integrated Mobile Systems**  
 📝 Sharing updates on [LinkedIn](https://linkedin.com/in/raphael-jeonghuan-lee)  
 📄 [View My Resume](https://raphael-lee.vercel.app/)  
- <a href="https://calendly.com/raphaeljeonghuanlee45/30min" target="blank">Call me</a>
+🤝 [Call Me](https://calendly.com/raphaeljeonghuanlee45/30min")
 ⚡ Fun fact: **I love mixing AI, AR/VR, and real-time data to build interactive experiences**
 
 </td>
